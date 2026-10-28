@@ -1,0 +1,17 @@
+# Compiled object files
+*.o
+
+# Generated executables
+projet-main
+projet-main.exe
+tests
+tests.exe
+*.out
+
+# IDE files
+.vscode/
+.vs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
